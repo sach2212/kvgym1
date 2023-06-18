@@ -113,11 +113,31 @@ transition: .5s ease;
   box-shadow: 2px 2px 2px #ffffff;
 }
 
-.header .logo img {
-  
-  width: 10rem;
-  /* font-size: 3rem; */
+                  /* .header .logo img {
+                    
+                    width: 10rem;
+                    /* font-size: 3rem; */
+                  }
+ */
+
+    .header .logo h2  {
+
+  color:  white;
+  font-size:3.5rem;
+  letter-spacing: .4rem;
+  font-style: italic;
 }
+.header .logo h2 em{
+
+  color: #e5262b;
+  letter-spacing: .4rem;
+}
+
+
+
+
+
+
 
 
 .header .navbar a {
